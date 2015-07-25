@@ -1,2 +1,6 @@
 zhe shi 1
+<<<<<<< HEAD
 在master 上改1 qwert
+=======
+在dev上改1 asdfg
+>>>>>>> dev
